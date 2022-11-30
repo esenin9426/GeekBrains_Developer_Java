@@ -7,10 +7,10 @@
     <groupId>org.example</groupId>
     <artifactId>GeekBrains_Developer_Java</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <properties>
         <maven.compiler.source>1.16</maven.compiler.source>
         <maven.compiler.target>1.16</maven.compiler.target>
     </properties>
-
 
 </project>
