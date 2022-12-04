@@ -3,6 +3,24 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="79071f71-3204-4cc6-b360-8a26c60dbf84" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HW3">
     <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW2" />
       <module name="GeekBrains_Developer_Java" />
@@ -43,8 +61,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HW3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW3" />
+      <module name="GeekBrains_Developer_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW3" />
         <item itemvalue="Application.HW2" />
       </list>
     </recent_temporary>
@@ -60,23 +86,34 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1669832690879">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1670179617980">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1669832690879" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1669832690878">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1670179617980" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1670179617980">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1669832690878" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1669832690878">
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1670179617980" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1670179617979">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1669832690878" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1669832690878">
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1670179617979" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1670179617980">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1669832690878" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1670179617980" />
     <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1669831199754">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
