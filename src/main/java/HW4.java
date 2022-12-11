@@ -45,15 +45,6 @@ public class HW4 {
                     start = m;
                 }
             }
-            for (String[] i:
-                    first_name) {
-                for (String j:
-                        i) {
-                    System.out.print(j + " ");
-                }
-                System.out.println();
-            }
-
 
         }
 
