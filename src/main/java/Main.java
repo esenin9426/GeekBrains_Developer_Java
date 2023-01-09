@@ -1,38 +1,34 @@
-import java.util.ArrayList;
-import java.util.List;
-
 public class Main {
     public static void main(String[] args) {
-        Product water = new Product("h2o", 15.3);
-        System.out.println(water);
+        Zoo zoo = new Zoo();
+        zoo.addAnimal(new Cat("Dimka",4,"Oleg"))
+                .addAnimal(new Dog("Tuzik",4,"Petya"))
+                .addAnimal(new Duck("Donald",2,"Ivan"))
+                .addAnimal(new Eagle("Trut",2,"Sasha"))
+                .addAnimal(new Penguin("Korol",2,"Antarktida"))
+                .addAnimal(new Elephant("Slonik",4,"Africa"));
+        System.out.println(zoo.toString());
+        System.out.println("Как говорят животные:");
+        System.out.println(zoo.talk());
+        System.out.println("Скорости бега животных:");
+        for (Runable i: zoo.getRunable()) {
+            System.out.println(i.toString()+"-" + i.runSpeed()+"km/h");
+        }
+        System.out.println();
+        System.out.println("Скорость чемпиона: " + zoo.getChampionSpeed());
+        System.out.println("Скорости полёта животных: ");
+        for (Flyable i: zoo.getFlyable())
+        {
+            System.out.println(i.toString() +"-"+ i.flySpeed()+"km/h");
+        }
+        System.out.println();
+        System.out.println("Скорость плавания животных: ");
+        for (Swimable i: zoo.getSwimable())
+        {
+            System.out.println(i.toString()+"-"+i.swimSpeed()+"km/h");
+        }
+        SaveManagerAnimals saveManagerAnimals = new SaveManagerAnimals();
+        saveManagerAnimals.save(zoo.getAnimals());
 
-        VendingMachine mach1 = new VendingMachine();
-        System.out.println(mach1);
-
-        List<Product> tovary = new ArrayList<>();
-        tovary.add(water);
-        tovary.add(new Product("vine",12));
-        tovary.add(new Product("dust",10));
-        tovary.add(new Soda("kind", 19, "grapes"));
-
-        VendingMachine mach2 = new VendingMachine(tovary);
-        System.out.println(mach2);
-        System.out.println(mach2.findByName("kind"));
-        System.out.println(mach2.findByPrice(12));
-        System.out.println(mach2.findByPriceRange(9,13));
-        System.out.println("==========================HOMEWORK=================================================\n");
-
-        List<Product> konfetki = new ArrayList<>();
-
-        konfetki.add(new Candy("mlechny put\'", 16, "chocolate", "moloko"));
-        konfetki.add(new Candy("nagrada", 19, "chocolate", "coconut"));
-        konfetki.add(new Candy("giant cock on a stick", 15, "caramel", "sugar")); // петyшок на палочке
-        konfetki.add(new Candy("horoshiy parizh", 19, "jelly", "apple"));
-        konfetki.add(new Veggies("Jose", 22, "Jalapeno on a Stick"));
-        konfetki.add(new Veggies("Ricardo", 12, "Carolina Pepper"));
-        konfetki.add(new Milk("happy Milkman", 20));
-
-        VendingMachine mach3Turbo = new VendingMachine(konfetki);
-        System.out.println(mach3Turbo);
     }
 }
