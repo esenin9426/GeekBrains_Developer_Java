@@ -1,34 +1,32 @@
+import java.util.Collections;
+
 public class Main {
     public static void main(String[] args) {
-        Zoo zoo = new Zoo();
-        zoo.addAnimal(new Cat("Dimka",4,"Oleg"))
-                .addAnimal(new Dog("Tuzik",4,"Petya"))
-                .addAnimal(new Duck("Donald",2,"Ivan"))
-                .addAnimal(new Eagle("Trut",2,"Sasha"))
-                .addAnimal(new Penguin("Korol",2,"Antarktida"))
-                .addAnimal(new Elephant("Slonik",4,"Africa"));
-        System.out.println(zoo.toString());
-        System.out.println("Как говорят животные:");
-        System.out.println(zoo.talk());
-        System.out.println("Скорости бега животных:");
-        for (Runable i: zoo.getRunable()) {
-            System.out.println(i.toString()+"-" + i.runSpeed()+"km/h");
-        }
-        System.out.println();
-        System.out.println("Скорость чемпиона: " + zoo.getChampionSpeed());
-        System.out.println("Скорости полёта животных: ");
-        for (Flyable i: zoo.getFlyable())
-        {
-            System.out.println(i.toString() +"-"+ i.flySpeed()+"km/h");
-        }
-        System.out.println();
-        System.out.println("Скорость плавания животных: ");
-        for (Swimable i: zoo.getSwimable())
-        {
-            System.out.println(i.toString()+"-"+i.swimSpeed()+"km/h");
-        }
-        SaveManagerAnimals saveManagerAnimals = new SaveManagerAnimals();
-        saveManagerAnimals.save(zoo.getAnimals());
+        User u1 = new User("D", "B", 1);
+        User u2 = new User("A", "R", 20);
+        User u3 = new User("V", "T", 3);
 
+        Personal personal = new Personal();
+
+        personal.addUser(u1).
+                addUser(u2).
+                addUser(u3);
+        for (User item: personal) {
+            System.out.println(item);
+        }
+
+        Collections.sort(personal.getUsers());
+
+        personal.forEach(System.out::println);
+
+        User boss = new User("Di", "Bill", 1, personal);
+        User BigBoss = new User("My", "Duck", 1, personal);
+
+        Company company = new Company(BigBoss);
+
+        for (User item: company
+             ) {
+            System.out.println(item);
+        }
     }
 }

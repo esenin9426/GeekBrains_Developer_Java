@@ -52,15 +52,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="HW3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW3" />
-      <module name="GeekBrains_Developer_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HWMain">
     <configuration name="HW4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW4" />
       <module name="GeekBrains_Developer_Java" />
@@ -82,6 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HWMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HWMain" />
+      <module name="GeekBrains_Developer_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="GeekBrains_Developer_Java" />
@@ -91,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HWMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HW6" />
         <item itemvalue="Application.HW5" />
         <item itemvalue="Application.HW4" />
-        <item itemvalue="Application.HW3" />
       </list>
     </recent_temporary>
   </component>
@@ -123,37 +126,46 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="384" y="151" key="#Project_Structure" timestamp="1673378824690">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="384" y="151" key="#Project_Structure/-1080.335.1080.785/0.25.1792.1095@0.25.1792.1095" timestamp="1673378824690" />
     <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1671534930156">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1671534930156" />
-    <state x="709" y="270" key="#com.intellij.ide.util.MemberChooser" timestamp="1673208381984">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="709" y="289" key="#com.intellij.ide.util.MemberChooser" timestamp="1673378693772">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="709" y="270" key="#com.intellij.ide.util.MemberChooser/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1673208381984" />
+    <state x="709" y="289" key="#com.intellij.ide.util.MemberChooser/-1080.335.1080.785/0.25.1792.1095@0.25.1792.1095" timestamp="1673378693772" />
     <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1672584513428">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1672584513428" />
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1673243767584">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="300" key="GridCell.Tab.0.bottom" timestamp="1673379183164">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.bottom/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1673208408309" />
+    <state width="1750" height="300" key="GridCell.Tab.0.bottom/-1080.335.1080.785/0.25.1792.1095@0.25.1792.1095" timestamp="1673379183164" />
     <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1673243767584" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1673243767584">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="300" key="GridCell.Tab.0.center" timestamp="1673379183163">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.center/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1673208408308" />
+    <state width="1750" height="300" key="GridCell.Tab.0.center/-1080.335.1080.785/0.25.1792.1095@0.25.1792.1095" timestamp="1673379183163" />
     <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1673243767584" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1673243767584">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="300" key="GridCell.Tab.0.left" timestamp="1673379183163">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.left/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1673208408307" />
+    <state width="1750" height="300" key="GridCell.Tab.0.left/-1080.335.1080.785/0.25.1792.1095@0.25.1792.1095" timestamp="1673379183163" />
     <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1673243767584" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1673243767584">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="300" key="GridCell.Tab.0.right" timestamp="1673379183163">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.right/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1673208408308" />
+    <state width="1750" height="300" key="GridCell.Tab.0.right/-1080.335.1080.785/0.25.1792.1095@0.25.1792.1095" timestamp="1673379183163" />
     <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1673243767584" />
     <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1670830893308">
       <screen x="0" y="0" width="1792" height="1120" />
