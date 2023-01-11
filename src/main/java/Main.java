@@ -1,32 +1,27 @@
-import java.util.Collections;
-
 public class Main {
+
     public static void main(String[] args) {
-        User u1 = new User("D", "B", 1);
-        User u2 = new User("A", "R", 20);
-        User u3 = new User("V", "T", 3);
+        Comandor comandor = new Comandor("Vas", 250, new LongBow());
+        Team<Archer> archerTeam = new Team<>(comandor);
+        archerTeam.setWarriors(new Archer("L1", 180, new LongBow()));
+        archerTeam.setWarriors(new Archer("L2", 150, new LongBow(), new BowShield()));
+        System.out.println(archerTeam.getComandor());
+        archerTeam.forEach(System.out::println);
+        System.out.println(archerTeam.getAllDamage());
+        System.out.println(archerTeam.getAllHealpoint());
+        System.out.println(archerTeam.getMaxRadius());
+        System.out.println("-----------------------------");
 
-        Personal personal = new Personal();
+        Comandor comandor1 = new Comandor("Vas2", 250, new LongBow());
+        Team<Barbarian> barbarianTeam = new Team<>(comandor1);
+        barbarianTeam.setWarriors(new Barbarian("B1", 300, new Sekira()));
+        barbarianTeam.setWarriors(new Barbarian("B2", 10, new Sekira(), new BarbarianShield()));
+        System.out.println(barbarianTeam.getComandor());
+        barbarianTeam.forEach(System.out::println);
+        System.out.println(barbarianTeam.getAllDamage());
+        System.out.println(barbarianTeam.getAllHealpoint());
+        System.out.println(barbarianTeam.getMaxRadius());
+        System.out.println("-----------------------------");
 
-        personal.addUser(u1).
-                addUser(u2).
-                addUser(u3);
-        for (User item: personal) {
-            System.out.println(item);
-        }
-
-        Collections.sort(personal.getUsers());
-
-        personal.forEach(System.out::println);
-
-        User boss = new User("Di", "Bill", 1, personal);
-        User BigBoss = new User("My", "Duck", 1, personal);
-
-        Company company = new Company(BigBoss);
-
-        for (User item: company
-             ) {
-            System.out.println(item);
-        }
     }
 }
