@@ -22,7 +22,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79071f71-3204-4cc6-b360-8a26c60dbf84" name="Default Changelist" comment="" />
+    <list default="true" id="79071f71-3204-4cc6-b360-8a26c60dbf84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Archer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Axe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Barbarian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BarbarianShield.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BowShield.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Comandor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HeavyShield.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LightShield.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LongBow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Sekira.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shield.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Warrior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Weapon.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
