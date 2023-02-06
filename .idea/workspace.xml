@@ -23,23 +23,89 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79071f71-3204-4cc6-b360-8a26c60dbf84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWork/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/HomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/Persister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/out/production/HomeWork/HomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid1Srp1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid1Srp1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid1Srp1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid1Srp1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid1Srp1/SolidSrp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid1Srp1/SolidSrp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid1Srp1/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid1Srp1/src/solid/srp/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid1Srp1/src/solid/srp/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid2Srp2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid2Srp2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid2Srp2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid2Srp2/SolidSrp2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid2Srp2/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid2Srp2/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid2Srp2/src/solid/srp/models/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid3Ocp1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid3Ocp1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid3Ocp1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid3Ocp1/SolidOcp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid3Ocp1/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/RightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid3Ocp1/src/solid/ocp/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid4Lsp1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid4Lsp1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid4Lsp1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid4Lsp1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid4Lsp1/SolidLsp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid4Lsp1/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid4Lsp1/src/solid/ViewShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid4Lsp1/src/solid/lsp/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid4Lsp1/src/solid/lsp/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid5Lsp2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid5Lsp2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid5Lsp2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid5Lsp2/SolidLsp2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/OrderCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/FactoryOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid5Lsp2/src/solid/lsp/OrderBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid6Isp1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid6Isp1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid6Isp1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid6Isp1/SolidSip1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/isp/InternetPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/isp/Payable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid6Isp1/src/solid/isp/TerminalPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid7Dip/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid7Dip/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid7Dip/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid7Dip/SolidDip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid7Dip/src/solid/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid7Dip/src/solid/dip/PrintReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid7Dip/src/solid/dip/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solid7Dip/src/solid/dip/ReportItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Archer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Axe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Barbarian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BarbarianShield.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Bow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BowShield.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Comandor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HeavyShield.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LightShield.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LongBow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sekira.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Shield.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Team.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Warrior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Weapon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personal/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personal/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personal/model/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personal/model/FileOperationImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personal/model/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personal/model/RepositoryFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personal/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personal/model/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personal/views/Commands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personal/views/ViewUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +131,15 @@
     </option>
   </component>
   <component name="ProjectId" id="2IHCl3W3Kg0rjwbQ9LpVsZByQCQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -144,15 +214,18 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="384" y="151" key="#Project_Structure" timestamp="1673466056984">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="384" y="151" key="#Project_Structure/-1080.335.1080.785/0.25.1792.1095@0.25.1792.1095" timestamp="1673466056984" />
-    <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1671534930156">
+    <state x="360" y="219" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1675139377872">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1671534930156" />
+    <state x="360" y="219" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1675139377872" />
     <state x="709" y="289" key="#com.intellij.ide.util.MemberChooser" timestamp="1673467946683">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
@@ -162,28 +235,28 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1672584513428" />
-    <state width="1750" height="300" key="GridCell.Tab.0.bottom" timestamp="1673470223152">
-      <screen x="0" y="25" width="1792" height="1095" />
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom" timestamp="1675139427841">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1673208408309" />
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1675139427841" />
     <state width="1750" height="300" key="GridCell.Tab.0.bottom/-1080.335.1080.785/0.25.1792.1095@0.25.1792.1095" timestamp="1673470223152" />
     <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1673243767584" />
-    <state width="1750" height="300" key="GridCell.Tab.0.center" timestamp="1673470223152">
-      <screen x="0" y="25" width="1792" height="1095" />
+    <state width="1750" height="317" key="GridCell.Tab.0.center" timestamp="1675139427840">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.center/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1673208408308" />
+    <state width="1750" height="317" key="GridCell.Tab.0.center/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1675139427840" />
     <state width="1750" height="300" key="GridCell.Tab.0.center/-1080.335.1080.785/0.25.1792.1095@0.25.1792.1095" timestamp="1673470223152" />
     <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1673243767584" />
-    <state width="1750" height="300" key="GridCell.Tab.0.left" timestamp="1673470223151">
-      <screen x="0" y="25" width="1792" height="1095" />
+    <state width="1750" height="317" key="GridCell.Tab.0.left" timestamp="1675139427840">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.left/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1673208408307" />
+    <state width="1750" height="317" key="GridCell.Tab.0.left/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1675139427840" />
     <state width="1750" height="300" key="GridCell.Tab.0.left/-1080.335.1080.785/0.25.1792.1095@0.25.1792.1095" timestamp="1673470223151" />
     <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1673243767584" />
-    <state width="1750" height="300" key="GridCell.Tab.0.right" timestamp="1673470223152">
-      <screen x="0" y="25" width="1792" height="1095" />
+    <state width="1750" height="317" key="GridCell.Tab.0.right" timestamp="1675139427841">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.right/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1673208408308" />
+    <state width="1750" height="317" key="GridCell.Tab.0.right/-1080.335.1080.785/0.0.1792.1120@0.0.1792.1120" timestamp="1675139427841" />
     <state width="1750" height="300" key="GridCell.Tab.0.right/-1080.335.1080.785/0.25.1792.1095@0.25.1792.1095" timestamp="1673470223152" />
     <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1673243767584" />
     <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1670830893308">
